@@ -1,0 +1,17 @@
+digraph "tree3-99" {
+node [fontname="Arial", fontcolor=red, shape=circle, style=filled, color="#66B268", fillcolor="#AFF4AF" ];
+edge [color = "#0070BF"];
+1996181658 [label="6"];
+l1996181658 [style=invis];
+1996181658 -> l1996181658;
+1996181658 -> 806353501;
+806353501 [label="2"];
+l806353501 [style=invis];
+806353501 -> l806353501;
+806353501 -> 521645586;
+521645586 [label="9"];
+521645586 -> 1296064247;
+1296064247 [label="3"];
+l521645586 [style=invis];
+521645586 -> l521645586;
+}

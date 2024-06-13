@@ -1,0 +1,17 @@
+digraph "Seq-murcie" {
+node [fontname="Arial", fontcolor=red, shape=circle, style=filled, color="#66B268", fillcolor="#AFF4AF" ];
+edge [color = "#0070BF"];
+1721931908 [label="c"];
+1721931908 -> 51228289;
+51228289 [label="m"];
+51228289 -> 2094548358;
+2094548358 [label="u"];
+51228289 -> 455896770;
+455896770 [label="r"];
+1721931908 -> 1198108795;
+1198108795 [label="e"];
+1198108795 -> 511754216;
+511754216 [label="i"];
+l1198108795 [style=invis];
+1198108795 -> l1198108795;
+}

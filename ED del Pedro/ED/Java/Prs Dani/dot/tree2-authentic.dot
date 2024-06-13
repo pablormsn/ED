@@ -1,0 +1,9 @@
+digraph "tree2-authentic" {
+node [fontname="Arial", fontcolor=red, shape=circle, style=filled, color="#66B268", fillcolor="#AFF4AF" ];
+edge [color = "#0070BF"];
+960604060 [label="5"];
+960604060 -> 1349393271;
+1349393271 [label="8"];
+960604060 -> 159413332;
+159413332 [label="1"];
+}

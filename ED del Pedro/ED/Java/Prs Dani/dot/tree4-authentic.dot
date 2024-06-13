@@ -1,0 +1,13 @@
+digraph "tree4-authentic" {
+node [fontname="Arial", fontcolor=red, shape=circle, style=filled, color="#66B268", fillcolor="#AFF4AF" ];
+edge [color = "#0070BF"];
+2094548358 [label="9"];
+2094548358 -> 51228289;
+51228289 [label="6"];
+51228289 -> 1323165413;
+1323165413 [label="10"];
+51228289 -> 1880587981;
+1880587981 [label="7"];
+2094548358 -> 1721931908;
+1721931908 [label="23"];
+}

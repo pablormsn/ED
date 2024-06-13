@@ -1,0 +1,25 @@
+digraph "sv-7-10" {
+labelloc="t"label="size = 8"node [fontname="Arial", fontcolor=red, shape=circle, style=filled, color="#66B268", fillcolor="#AFF4AF" ];
+edge [color = "#0070BF"];
+122883338 [label=""];
+122883338 -> 666641942;
+666641942 [label=""];
+666641942 -> 960604060;
+960604060 [label=""];
+960604060 -> 2129789493;
+2129789493 [label="0" , shape=square];
+960604060 -> 1349393271;
+1349393271 [label="5" , shape=square];
+666641942 -> 2129789493;
+2129789493 [label="0" , shape=square];
+122883338 -> 1338668845;
+1338668845 [label=""];
+1338668845 -> 2129789493;
+2129789493 [label="0" , shape=square];
+1338668845 -> 159413332;
+159413332 [label=""];
+159413332 -> 1028214719;
+1028214719 [label="10" , shape=square];
+159413332 -> 500977346;
+500977346 [label="10" , shape=square];
+}

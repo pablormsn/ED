@@ -1,0 +1,17 @@
+digraph "tree4-trimmed" {
+node [fontname="Arial", fontcolor=red, shape=circle, style=filled, color="#66B268", fillcolor="#AFF4AF" ];
+edge [color = "#0070BF"];
+1296064247 [label="16"];
+1296064247 -> 1637070917;
+1637070917 [label="8"];
+1637070917 -> 780237624;
+780237624 [label="4"];
+l1637070917 [style=invis];
+1637070917 -> l1637070917;
+1296064247 -> 1066516207;
+1066516207 [label="32"];
+1066516207 -> 443308702;
+443308702 [label="24"];
+1066516207 -> 396180261;
+396180261 [label="64"];
+}

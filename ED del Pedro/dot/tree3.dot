@@ -1,0 +1,17 @@
+digraph "tree3" {
+node [fontname="Arial", fontcolor=red, shape=circle, style=filled, color="#66B268", fillcolor="#AFF4AF" ];
+edge [color = "#0070BF"];
+1028214719 [label="6"];
+l1028214719 [style=invis];
+1028214719 -> l1028214719;
+1028214719 -> 500977346;
+500977346 [label="2"];
+l500977346 [style=invis];
+500977346 -> l500977346;
+500977346 -> 20132171;
+20132171 [label="9"];
+20132171 -> 186370029;
+186370029 [label="3"];
+l20132171 [style=invis];
+20132171 -> l20132171;
+}
